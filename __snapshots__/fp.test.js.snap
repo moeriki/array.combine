@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fp/combine should throw if arrays is no array 1`] = `"Array.combine: Expected arrays to be an array. Instead received \\"string\\"."`;
+
+exports[`fp/combineWith should throw if iteratee is not a function 1`] = `"Array.combine: Expected arrays to be an array. Instead received \\"string\\"."`;

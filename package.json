@@ -1,0 +1,23 @@
+{
+  "name": "array.combine",
+  "version": "1.0.0",
+  "description": "JavaScript utility to combine arrays.",
+  "keywords": ["arrays", "combine"],
+  "author": "Dieter Luypaert <dieterluypaert@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/moeriki/array.combine",
+  "engines": {
+    "node": ">=6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --cache *.js",
+    "test": "npm run lint && jest --coverage"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "jest": "^22.4.3"
+  }
+}

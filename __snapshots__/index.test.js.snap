@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`combineWith should throw if iteratee is not a function 1`] = `"Array.combine: Expected iteratee to be a function. Instead received \\"string\\"."`;
