@@ -3,7 +3,7 @@
   <p align="center">A JavaScript utility to combine arrays.<p>
   <p align="center">
     <a href="https://www.npmjs.com/package/array.combine">
-      <img src="https://img.shields.io/npm/v/mappr.svg" alt="npm version">
+      <img src="https://img.shields.io/npm/v/array.combine.svg" alt="npm version">
     </a>
     <a href="https://travis-ci.org/Moeriki/array.combine">
       <img src="https://travis-ci.org/Moeriki/array.combine.svg?branch=master" alt="Build Status"></img>
